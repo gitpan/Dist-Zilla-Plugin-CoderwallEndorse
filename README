@@ -3,7 +3,7 @@ NAME
     button to README Markdown file
 
 VERSION
-    version 0.1.1
+    version 0.1.2
 
 SYNOPSIS
         ; in dist.ini
@@ -22,7 +22,14 @@ DESCRIPTION
 SEE ALSO
     www.coderwall.com
 
-    Dist::Zilla::Plugin:::ReadmeMarkdownFromPod
+    Dist::Zilla::Plugin::ReadmeMarkdownFromPod
+
+    For an example of what the result of this plugin looks like, see its
+    GitHub main page:
+    <https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse>
+
+    Original blog entry:
+    <http://babyl.dyndns.org/techblog/entry/coderwall-button>
 
 AUTHOR
     Yanick Champoux <yanick@babyl.dyndns.org>

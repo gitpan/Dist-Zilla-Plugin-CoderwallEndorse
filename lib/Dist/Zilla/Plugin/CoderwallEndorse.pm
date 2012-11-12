@@ -3,7 +3,7 @@ BEGIN {
   $Dist::Zilla::Plugin::CoderwallEndorse::AUTHORITY = 'cpan:YANICK';
 }
 {
-  $Dist::Zilla::Plugin::CoderwallEndorse::VERSION = '0.1.1';
+  $Dist::Zilla::Plugin::CoderwallEndorse::VERSION = '0.1.2';
 }
 # ABSTRACT: Adds a Coderwall 'endorse' button to README Markdown file
 
@@ -84,7 +84,7 @@ Dist::Zilla::Plugin::CoderwallEndorse - Adds a Coderwall 'endorse' button to REA
 
 =head1 VERSION
 
-version 0.1.1
+version 0.1.2
 
 =head1 SYNOPSIS
 
@@ -106,7 +106,12 @@ given.
 
 L<www.coderwall.com>
 
-L<Dist::Zilla::Plugin:::ReadmeMarkdownFromPod>
+L<Dist::Zilla::Plugin::ReadmeMarkdownFromPod>
+
+For an example of what the result of this plugin looks like, see its
+GitHub main page: L<https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse>
+
+Original blog entry: L<http://babyl.dyndns.org/techblog/entry/coderwall-button>
 
 =head1 AUTHOR
 

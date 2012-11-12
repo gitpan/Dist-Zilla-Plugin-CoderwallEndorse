@@ -23,7 +23,7 @@ my %module_build_args = (
     "Yanick Champoux <yanick\@babyl.dyndns.org>"
   ],
   "dist_name" => "Dist-Zilla-Plugin-CoderwallEndorse",
-  "dist_version" => "0.1.1",
+  "dist_version" => "0.1.2",
   "license" => "perl",
   "module_name" => "Dist::Zilla::Plugin::CoderwallEndorse",
   "recommends" => {},

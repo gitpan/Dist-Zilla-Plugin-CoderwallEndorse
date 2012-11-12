@@ -48,7 +48,7 @@
    "provides" : {
       "Dist::Zilla::Plugin::CoderwallEndorse" : {
          "file" : "lib/Dist/Zilla/Plugin/CoderwallEndorse.pm",
-         "version" : "v0.1.1"
+         "version" : "v0.1.2"
       }
    },
    "release_status" : "stable",
@@ -64,7 +64,7 @@
          "web" : "https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse"
       }
    },
-   "version" : "0.1.1",
+   "version" : "0.1.2",
    "x_author_pledge" : {
       "version" : 1
    },

@@ -4,7 +4,7 @@ Dist::Zilla::Plugin::CoderwallEndorse - Adds a Coderwall 'endorse' button to REA
 
 # VERSION
 
-version 0.1.1
+version 0.1.2
 
 # SYNOPSIS
 
@@ -26,11 +26,16 @@ given.
 
 [www.coderwall.com](http://search.cpan.org/perldoc?www.coderwall.com)
 
-[Dist::Zilla::Plugin:::ReadmeMarkdownFromPod](http://search.cpan.org/perldoc?Dist::Zilla::Plugin:::ReadmeMarkdownFromPod)
+[Dist::Zilla::Plugin::ReadmeMarkdownFromPod](http://search.cpan.org/perldoc?Dist::Zilla::Plugin::ReadmeMarkdownFromPod)
+
+For an example of what the result of this plugin looks like, see its
+GitHub main page: [https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse](https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse)
+
+Original blog entry: [http://babyl.dyndns.org/techblog/entry/coderwall-button](http://babyl.dyndns.org/techblog/entry/coderwall-button)
 
 # AUTHOR
 
-Yanick Champoux <yanick@babyl.dyndns.org> [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick)
+Yanick Champoux <yanick@babyl.dyndns.org> [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick) [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick)
 
 # COPYRIGHT AND LICENSE
 
