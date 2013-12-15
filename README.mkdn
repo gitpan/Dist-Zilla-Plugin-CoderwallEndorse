@@ -4,7 +4,7 @@ Dist::Zilla::Plugin::CoderwallEndorse - Adds a Coderwall 'endorse' button to REA
 
 # VERSION
 
-version 0.1.2
+version 0.2.0
 
 # SYNOPSIS
 
@@ -14,6 +14,7 @@ version 0.1.2
     [ReadmeMarkdownFromPod]
 
     [CoderwallEndorse]
+    filename = README.mkdn
     users = coderwall_name : author name, other_cw_name : other author
 
 # DESCRIPTION
@@ -24,9 +25,9 @@ given.
 
 # SEE ALSO
 
-[www.coderwall.com](http://search.cpan.org/perldoc?www.coderwall.com)
+[http://www.coderwall.com](http://www.coderwall.com)
 
-[Dist::Zilla::Plugin::ReadmeMarkdownFromPod](http://search.cpan.org/perldoc?Dist::Zilla::Plugin::ReadmeMarkdownFromPod)
+[Dist::Zilla::Plugin::ReadmeMarkdownFromPod](https://metacpan.org/pod/Dist::Zilla::Plugin::ReadmeMarkdownFromPod)
 
 For an example of what the result of this plugin looks like, see its
 GitHub main page: [https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse](https://github.com/yanick/Dist-Zilla-Plugin-CoderwallEndorse)
@@ -35,7 +36,7 @@ Original blog entry: [http://babyl.dyndns.org/techblog/entry/coderwall-button](h
 
 # AUTHOR
 
-Yanick Champoux <yanick@babyl.dyndns.org> [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick) [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick)
+Yanick Champoux <yanick@cpan.org> [![endorse](http://api.coderwall.com/yanick/endorsecount.png)](http://coderwall.com/yanick)
 
 # COPYRIGHT AND LICENSE
 

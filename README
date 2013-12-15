@@ -3,7 +3,7 @@ NAME
     button to README Markdown file
 
 VERSION
-    version 0.1.2
+    version 0.2.0
 
 SYNOPSIS
         ; in dist.ini
@@ -12,6 +12,7 @@ SYNOPSIS
         [ReadmeMarkdownFromPod]
 
         [CoderwallEndorse]
+        filename = README.mkdn
         users = coderwall_name : author name, other_cw_name : other author
 
 DESCRIPTION
@@ -20,7 +21,7 @@ DESCRIPTION
     has been given.
 
 SEE ALSO
-    www.coderwall.com
+    <http://www.coderwall.com>
 
     Dist::Zilla::Plugin::ReadmeMarkdownFromPod
 
@@ -32,7 +33,7 @@ SEE ALSO
     <http://babyl.dyndns.org/techblog/entry/coderwall-button>
 
 AUTHOR
-    Yanick Champoux <yanick@babyl.dyndns.org>
+    Yanick Champoux <yanick@cpan.org>
 
 COPYRIGHT AND LICENSE
     This software is copyright (c) 2012 by Yanick Champoux.
